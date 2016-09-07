@@ -1,2 +1,4 @@
 LANConnectLib/bin
 LANConnectTest/bin
+.DS_Store
+*/.DS_Store
